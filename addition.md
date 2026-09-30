@@ -1,0 +1,1 @@
+addition works by combining 2 integers for example 1 + 2 = 4.
